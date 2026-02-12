@@ -1,0 +1,343 @@
+{
+  "category": "FAE_FOLKLORE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/knocker",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "knocker",
+    "name": "Knocker",
+    "aliases": [
+      {
+        "name": "Knackers",
+        "language": "Cornish dialect",
+        "region": "Cornwall"
+      },
+      {
+        "name": "Buccas",
+        "language": "Cornish",
+        "region": "Cornwall"
+      },
+      {
+        "name": "Tommyknockers",
+        "region": "American",
+        "meaning": "Americanized version brought by Cornish immigrants"
+      }
+    ],
+    "category": "FAE_FOLKLORE",
+    "subcategory": "Mining Spirits",
+    "tags": [
+      "mining",
+      "cornish",
+      "underground",
+      "helpful",
+      "dangerous",
+      "knocking",
+      "spirits",
+      "cultural-heritage"
+    ],
+    "status": "traditional_folklore",
+    "description": {
+      "summary": "Mining sprites from Cornish folklore that live underground in mines, knocking on walls to indicate ore veins or warn of danger.",
+      "full": "Knockers are mining spirits from Cornish folklore, described as small (around 2 feet tall), bearded creatures dressed like miners who dwell in underground mines. They produce knocking sounds on mine walls that serve dual purposes: indicating rich ore veins to lead miners to valuable deposits, or warning of imminent cave-ins and dangers. Knockers are helpful to miners who treat them respectfully—leaving food offerings and maintaining proper etiquette (never whistling, which offends them)—but can cause cave-ins and mislead those who anger or disrespect them. Folk belief suggests they may be spirits of Jews historically forced to work in mines, or ancient mine spirits predating Christianity. Cornish miners held genuine belief in knockers well into the 20th century, and the tradition was brought to America by Cornish immigrants, evolving into 'Tommyknockers.' Knockers represent an important part of Cornish cultural heritage and mining community tradition."
+    },
+    "etymology": {
+      "origin": "From the knocking sounds they produce in mines, from English 'knock' + -er",
+      "meaning": "One who knocks, referring to the knocking sounds on mine walls",
+      "first_use": "Traditional Cornish folklore, documented 1800s"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "FAE_FOLKLORE",
+      "type": "Mining Spirit",
+      "subtype": "Helpful/Dangerous Fae",
+      "variant": "Cornish/Devon"
+    },
+    "related_phenomena": [
+      {
+        "id": "tommyknockers",
+        "name": "Tommyknockers",
+        "relationship": "regional_variant",
+        "description": "American version, Cornish immigrant tradition"
+      },
+      {
+        "id": "kobold",
+        "name": "Kobold",
+        "relationship": "similar",
+        "description": "German mine spirit with similar characteristics"
+      },
+      {
+        "id": "brownie",
+        "name": "Brownie",
+        "relationship": "similar",
+        "description": "Helpful household spirit (similar helpful nature)"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 0.6,
+        "max": 0.6,
+        "unit": "meters",
+        "confidence": "medium",
+        "description": "Approximately 2 feet tall"
+      },
+      "features": [
+        {
+          "feature": "Beard",
+          "description": "Bearded like miners",
+          "frequency": "always"
+        },
+        {
+          "feature": "Clothing",
+          "description": "Dressed like traditional miners (work clothes)",
+          "frequency": "always"
+        },
+        {
+          "feature": "Size",
+          "description": "Small, around 2 feet tall",
+          "frequency": "always"
+        },
+        {
+          "feature": "Appearance",
+          "description": "Humanoid, miner-like, underground dwellers",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Small humanoid figures resembling miniature miners. Bearded, sturdy build, dressed in mining attire."
+    },
+    "abilities": [
+      {
+        "ability": "Knocking sounds",
+        "description": "Produce knocking sounds on mine walls",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Ore detection",
+        "description": "Knock to indicate location of rich ore veins",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Danger warning",
+        "description": "Knock to warn of cave-ins and dangers",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Cave-in causation",
+        "description": "Can cause cave-ins when angered",
+        "frequency": "occasional",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Misleading",
+        "description": "Lead miners astray if disrespected",
+        "frequency": "occasional",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "any",
+      "disposition": "helpful_if_respected",
+      "social_structure": "group",
+      "habitat_preference": [
+        "underground mines",
+        "tunnels",
+        "underground spaces"
+      ],
+      "patterns": [
+        "Live in mines",
+        "Knock on walls to communicate",
+        "Helpful to respectful miners",
+        "Dangerous to disrespectful miners",
+        "Offended by whistling in mines",
+        "Accept food offerings"
+      ]
+    },
+    "respect_protocols": {
+      "offerings": "Miners left food scraps (part of lunch) for knockers",
+      "taboos": [
+        "Never whistle in mines (highly offensive to knockers)",
+        "Show respect to the mine and spirits",
+        "Do not mock or disrespect knockers"
+      ],
+      "proper_behavior": "Respectful attitude, leave offerings, heed warnings"
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Originated in Cornwall and Devon (England), brought to mining regions worldwide by Cornish immigrants, especially America.",
+      "continents": ["Europe", "North America", "Australia"],
+      "countries": ["United Kingdom (Cornwall, Devon)", "United States", "Australia", "South Africa"],
+      "regions": [
+        "Cornwall (origin)",
+        "Devon",
+        "Pennsylvania (coal mines)",
+        "Western United States (hard rock mines)",
+        "Australia (gold mines)",
+        "South Africa (gold/diamond mines)"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Traditional, documented 1800s",
+        "circa": true,
+        "source": "Cornish oral tradition, folklore collections"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1800s-early 1900s",
+          "description": "Peak of mining activity and genuine belief among miners"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Cornish mining culture, possibly pre-Christian mine spirit traditions. Folk belief suggests spirits of Jews forced to work in mines, or ancient underground spirits.",
+      "earliest_accounts": "Traditional Cornish oral folklore, documented in 19th century",
+      "folklore_connections": "Connected to broader British fairy lore, mine spirit traditions, and helpful/dangerous fae"
+    },
+    "timeline": [
+      {
+        "date": "Pre-1800s",
+        "event": "Traditional Cornish belief",
+        "significance": "Knockers part of Cornish mining culture and oral tradition",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "1800s",
+        "event": "Documentation and collection",
+        "significance": "Folklore collectors document knocker traditions",
+        "source": "Folklore publications"
+      },
+      {
+        "date": "1800s-1900s",
+        "event": "Cornish emigration",
+        "significance": "Cornish miners bring knocker beliefs to America, Australia, South Africa",
+        "source": "Immigration records, cultural transmission"
+      },
+      {
+        "date": "Early 1900s",
+        "event": "Continued genuine belief",
+        "significance": "Cornish miners in Cornwall and abroad maintain knocker beliefs",
+        "source": "Oral histories, mining community records"
+      }
+    ],
+    "modern_era": "Knocker folklore remains important part of Cornish cultural heritage. Mining museums in Cornwall preserve knocker traditions. The belief has largely faded with decline of traditional mining, but remains cultural touchstone."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Cornish mining culture",
+        "Food offerings to knockers",
+        "No whistling in mines taboo",
+        "Respectful behavior in mines"
+      ],
+      "beliefs": "Genuine belief among Cornish miners into 20th century. Knockers seen as real spirits requiring respect. Their warnings could save lives.",
+      "origin_theories": [
+        "Spirits of Jews forced to work in mines (folk belief)",
+        "Ancient pre-Christian mine spirits",
+        "Spirits of miners who died underground"
+      ]
+    },
+    "cultural_sensitivity": {
+      "note": "Knockers are significant part of Cornish cultural heritage and identity. Represent important mining community traditions and genuine historical beliefs.",
+      "respect": "Treat as important cultural tradition, not mere superstition. Cornish communities maintain connection to this heritage."
+    },
+    "popular_culture": {
+      "literature": [
+        "Folklore collections (Robert Hunt, William Bottrell)",
+        "Stephen King - 'The Tommyknockers' (1987, horror novel)",
+        "Various Cornish folklore books"
+      ],
+      "regional": [
+        "Cornish cultural festivals",
+        "Mining museum exhibits",
+        "Local heritage preservation"
+      ]
+    }
+  },
+
+  "theories": {
+    "folklore": [
+      {
+        "name": "Jewish spirits",
+        "description": "Folk belief that knockers are spirits of Jews forced to work in mines",
+        "evidence_cited": ["Cornish oral tradition"],
+        "note": "Historical belief, not factual"
+      },
+      {
+        "name": "Ancient mine spirits",
+        "description": "Pre-Christian spirits of underground places and mining",
+        "evidence_cited": ["Pre-Christian mine traditions"]
+      },
+      {
+        "name": "Dead miners",
+        "description": "Spirits of miners who died in mines",
+        "evidence_cited": ["Mining accident traditions"]
+      }
+    ],
+    "natural_explanations": [
+      {
+        "name": "Rock sounds",
+        "description": "Knocking sounds are natural rock settling, stress, and geological activity",
+        "evidence_cited": ["Geological studies of mine acoustics"]
+      },
+      {
+        "name": "Psychological comfort",
+        "description": "Belief provided psychological framework for dangerous work, interpreting natural sounds as warnings",
+        "evidence_cited": ["Mining psychology", "Occupational folklore"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "hunt-1865",
+      "type": "book",
+      "title": "Popular Romances of the West of England",
+      "authors": ["Robert Hunt"],
+      "date": "1865",
+      "description": "Classic collection of Cornish folklore including knockers"
+    },
+    {
+      "id": "bottrell-1870s",
+      "type": "book",
+      "title": "Traditions and Hearthside Stories of West Cornwall",
+      "authors": ["William Bottrell"],
+      "date": "1870s",
+      "description": "Cornish folklore collection"
+    },
+    {
+      "id": "cornish-mining",
+      "type": "cultural",
+      "title": "Cornish Mining Heritage",
+      "description": "Cultural heritage documentation of Cornish mining traditions"
+    }
+  ]
+}
