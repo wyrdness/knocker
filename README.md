@@ -1,293 +1,188 @@
 # Knocker
 
-> *"Listen for the knocking—it may save your life."*
+> A small, wrinkled, miner-clad subterranean fairy of Cornish and Devon folklore, said to inhabit mines and to make knocking sounds in the rock — sometimes guiding miners toward rich tin or copper veins, sometimes warning of imminent collapse, and sometimes maliciously punishing whistlers or thieves.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-traditional__folklore-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `knocker` |
 | **Category** | FAE_FOLKLORE |
-| **Classification** | Mining Spirit |
-| **First Recorded** | Traditional (documented 1800s) |
-| **Primary Region** | Cornwall, Devon (England) |
-| **Status** | Traditional Folklore |
+| **Subcategory** | Mining spirit / mine fairy |
+| **First recorded** | 1820-01-01 |
+| **Primary range** | Concentrated in Cornwall and Devon (England) and Wales, with diaspora presence in mining communities of Pennsylvania, Colorado, Nevada, California, Wisconsin, and Michigan, USA — wherever Cornish 'Cousin Jack' miners settled |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Knockers are mining spirits from Cornish folklore, described as small (around 2 feet tall), bearded creatures dressed like miners who dwell in underground mines. They produce knocking sounds on mine walls that serve dual purposes: indicating rich ore veins to lead miners to valuable deposits, or warning of imminent cave-ins and dangers.
-
-Knockers are helpful to miners who treat them respectfully—leaving food offerings and maintaining proper etiquette (never whistling, which offends them)—but can cause cave-ins and mislead those who anger or disrespect them.
-
-Folk belief suggests they may be spirits of Jews historically forced to work in mines, or ancient mine spirits predating Christianity. Cornish miners held genuine belief in knockers well into the 20th century, and the tradition was brought to America by Cornish immigrants, evolving into "Tommyknockers."
-
-> ⚠️ **Cultural Sensitivity**: Knockers represent important Cornish cultural heritage and mining community tradition. Treat with respect as legitimate cultural tradition.
+The knocker (also knacker or, in the United States, Tommyknocker) is a mythical underground fairy or gnome of Cornish and Devon folklore, with cognates across the British Isles (Welsh coblyn) and German-speaking mining regions (Bergmännlein, Wichtel, mine-kobold). Cornish folk tradition describes the knocker as a 'little person' about two feet tall, with a disproportionately large head, long arms, wrinkled skin, white whiskers, and a tiny set of miner's clothing complete with cap and pickaxe. Knockers were a fixture of pre-modern and Victorian Cornish tin and copper mines, where their characteristic 'knockings' on the rock walls were variously interpreted as either friendly guidance toward rich ore veins or warnings of imminent rockfalls and cave-ins. In return, the miners — a largely Methodist working culture nonetheless deeply attached to the knockers — left small offerings, especially the last bite of a Cornish pasty, at the rock face. Etiquette forbade whistling underground (which knockers reportedly hated) and crossing them in any way. When Cornish and Welsh miners emigrated en masse in the 1820s and after to the silver, gold, and copper fields of western Pennsylvania, Colorado, Nevada, and California, they took the knocker with them, where the figure was rebranded as the 'Tommyknocker' and survived in mining communities as a working folk belief well into the 20th century. A widely repeated 1956 anecdote has the descendants of Cornish 'Cousin Jack' miners petitioning a closing California mine's owners to seal it in a way that 'set the knockers free' to find work in other mines.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Knacker | Cornish English / Cornwall, England |  |
+| Bucca | Cornish / Cornwall | related Cornish folk spirit sometimes equated with the knocker |
+| Tommyknocker | Western United States | American adaptation of the Cornish knocker by Cornish miners in Colorado, Nevada, California, and Pennsylvania |
+| Coblyn | Welsh / Wales | Welsh mining-spirit cognate |
+| Berggeist / Bergmännlein | German / German-speaking mining regions | 'mountain spirit / little mountain man' — German mining-spirit counterpart |
+| Kobold (mining sense) | German / Germany | specifically the underground/mine kobold, parallel to the knocker |
 
-### Primary Name
-- **Knocker** — From the knocking sounds they produce in mines, from English "knock" + -er (one who knocks)
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Knackers | Cornish dialect | Dialectal variation |
-| Buccas | Cornish | Cornish name |
-| Tommyknockers | American | Americanized version (immigrant tradition) |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: FAE_FOLKLORE
-├── Type: Mining Spirit
-├── Subtype: Helpful/Dangerous Fae
-└── Variant: Cornish/Devon
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Tommyknockers](/tommyknockers) | Regional Variant | American version, Cornish immigrant tradition |
-| Kobold | Similar | German mine spirit with similar characteristics |
-| [Brownie](/brownie) | Similar | Helpful household spirit (similar helpful nature) |
+- **Origin**: From English 'knock' + agent suffix '-er' — 'one who knocks' — referring to the characteristic mine-wall knocking attributed to the spirit. 'Tommyknocker' is American slang derived from the Cornish term, possibly with 'Tommy' as a generic familiar name for an Englishman.
+- **Meaning**: 'The knocker' — a knocking spirit of the mines.
+- **First use**: Documented in 19th-century Cornish folklore collections; the Tommyknocker variant is documented in American mining communities from the mid-19th century onward.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Coblyn](../coblyn/) — _regional_variant_: Welsh mining-spirit cognate
+- [Mine Kobold](../kobold/) — _similar_: German underground spirit; sometimes equated with the knocker
+- [Leprechaun](../leprechaun/) — _related_: Irish solitary fairy; commonly grouped with knockers in 19th-century comparative folklore
+- [Brownie](../brownie/) — _similar_: British domestic helpful spirit with similar conditional behavior
+- [Tommyknocker](../tommyknocker/) — _regional_variant_: American mining-camp form of the knocker
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | ~0.6 meters (~2 feet) | Medium |
-| **Appearance** | Bearded, dressed like miners | Medium |
-| **Build** | Small, sturdy, miner-like | Medium |
+- **Height**: 0.5–0.9 meters _(low confidence)_
+- **Coloration**: leathery brown skin, dark mining clothes, white whiskers
+- **Morphology**: Diminutive humanoid; conventionally a miniature working miner.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Beard | Bearded like miners | Always |
-| Clothing | Dressed like traditional miners (work clothes) | Always |
-| Size | Small, around 2 feet tall | Always |
-| Appearance | Humanoid, miner-like, underground dwellers | Always |
+|---|---|---|
+| Diminutive stature (~2 ft / 0.6 m) | Approximately two feet tall in classic Cornish descriptions | always |
+| Disproportionately large head | An unusually large head for the body, with long arms | common |
+| Wrinkled, weathered skin | Aged, leathery skin and white whiskers | common |
+| Miner's garb | Tiny version of standard Cornish miner's clothing — cap, jacket, breeches, and a small pickaxe | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Knocking sounds | Produce knocking sounds on mine walls | Folklore |
-| Ore detection | Knock to indicate location of rich ore veins | Folklore |
-| Danger warning | Knock to warn of cave-ins and dangers | Folklore |
-| Cave-in causation | Can cause cave-ins when angered | Folklore |
-| Misleading | Lead miners astray if disrespected | Folklore |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Knocking on rock | Produces audible rapping or tapping sounds on mine walls, interpreted as either ore guidance or collapse warning | always | folklore |
+| Mine-collapse premonition | Knocks heard immediately before rockfalls; treated by miners as a literal early-warning system | common | reported |
+| Theft of small tools and food | Steals unattended candles, picks, and lunches in 'mischief' mode | common | folklore |
+| Punishment of whistlers and oath-breakers | Causes accidents or nightlong torment to miners who whistle, swear, or otherwise disrespect them | common | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Any time
-- **Disposition**: Helpful if respected, dangerous if angered
-- **Social Structure**: Groups
-- **Habitat**: Underground mines, tunnels, underground spaces
-- **Behavior**: Live in mines, knock on walls to communicate, helpful to respectful miners, dangerous to disrespectful miners, offended by whistling, accept food offerings
-
----
-
-## Respect & Etiquette
-
-### Proper Respect
-
-Miners followed strict protocols when dealing with knockers:
-
-**Food Offerings**: Miners left food scraps (part of their lunch) for knockers as offerings of respect.
-
-**Taboos**:
-- ⚠️ **Never whistle in mines** — Highly offensive to knockers
-- Show respect to the mine and spirits
-- Do not mock or disrespect knockers
-
-**Proper Behavior**: Respectful attitude, leave offerings, heed warnings immediately.
-
-### Consequences
-
-**If Respected**: Knockers help miners by:
-- Indicating rich ore veins
-- Warning of imminent dangers
-- Protecting respectful miners
-
-**If Disrespected**: Knockers punish miners by:
-- Causing cave-ins
-- Misleading to dangerous areas
-- Withholding warnings
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: solitary
+- **Habitat**: tin mines, copper mines, deep silver and gold mines (in the U.S.), rock shafts and stopes
+- **Diet**: Particularly fond of the last bite of a Cornish pasty
 
 ---
+## Distribution
 
-## Geographic Distribution
+Concentrated in Cornwall and Devon (England) and Wales, with diaspora presence in mining communities of Pennsylvania, Colorado, Nevada, California, Wisconsin, and Michigan, USA — wherever Cornish 'Cousin Jack' miners settled.
 
-### Primary Range
+### Hotspots
 
-Originated in Cornwall and Devon (England), brought to mining regions worldwide by Cornish immigrants.
-
-### Regions
-
-| Region | Context |
-|--------|---------|
-| Cornwall (England) | Origin, traditional heartland |
-| Devon (England) | Traditional region |
-| Pennsylvania (USA) | Coal mines, Cornish immigrant tradition |
-| Western USA | Hard rock mines (Colorado, Nevada, California) |
-| Australia | Gold mines, Cornish immigrant communities |
-| South Africa | Gold/diamond mines, Cornish workers |
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Cornish tin mines (St Just / Geevor district) | Cornwall, United Kingdom |  | 1700s–1900s |
+| Comstock Lode | Nevada, United States |  | 1859–1920s |
 
 ---
-
 ## Historical Timeline
 
-### Origins
-
-Cornish mining culture, possibly pre-Christian mine spirit traditions. Folk belief suggests spirits of Jews forced to work in mines, or ancient underground spirits.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-1800s | Traditional Cornish belief | Knockers part of Cornish mining culture and oral tradition |
-| 1800s | Documentation and collection | Folklore collectors document knocker traditions |
-| 1800s-1900s | Cornish emigration | Cornish miners bring knocker beliefs to America, Australia, South Africa |
-| Early 1900s | Continued genuine belief | Cornish miners maintain knocker beliefs into 20th century |
+|---|---|---|
+| 1820-01-01 | Cornish and Welsh miners begin large-scale emigration to U.S. mining districts, taking the knocker tradition to Pennsylvania, then Colorado, Nevada, and California | Diaspora of the belief |
+| 1865-01-01 | Robert Hunt publishes 'Popular Romances of the West of England' with substantial knocker material | Foundational printed source |
+| 1870-01-01 | William Bottrell publishes 'Traditions and Hearthside Stories of West Cornwall' with further knocker tales | Companion ethnographic source |
+| 1956-01-01 | Closing of a California mine prompts Cornish-American 'Cousin Jack' descendants to petition the mine owners to release the knockers so they can move to other workings | Living-belief moment frequently cited in American mining folklore |
+| 1987-01-01 | Stephen King's novel 'The Tommyknockers' publishes, popularizing the term in American horror fiction | Modern pop-cultural diffusion |
 
-### Modern Era
+## Evidence
 
-Knocker folklore remains important part of Cornish cultural heritage. Mining museums in Cornwall preserve knocker traditions. The belief has largely faded with decline of traditional mining, but remains cultural touchstone.
+### Documentary
 
----
-
-## Cultural Significance
-
-### Cornish Mining Culture
-
-**Genuine Belief**: Cornish miners held genuine belief in knockers well into the 20th century. This was not mere superstition but part of occupational culture and safety practice.
-
-**Life-Saving Warnings**: Many miners credited knockers with saving their lives through warnings of impending cave-ins and dangers.
-
-**Cultural Identity**: Knockers are integral to Cornish cultural heritage and identity, representing the deep mining traditions of Cornwall.
-
-### Origin Theories (Folklore)
-
-**Jewish Spirits**: Folk belief held that knockers were spirits of Jews forced to work in mines. (Historical belief, not factual)
-
-**Ancient Mine Spirits**: Pre-Christian spirits of underground places and mining, predating Christianity.
-
-**Dead Miners**: Spirits of miners who died in mines, continuing to help or haunt the living.
-
-### Global Spread
-
-Cornish emigration in 1800s-1900s brought knocker beliefs to:
-- **America**: Pennsylvania coal mines, Western hard rock mines
-- **Australia**: Gold mining regions
-- **South Africa**: Gold and diamond mines
-
-In each location, Cornish miners maintained their knocker traditions, adapting them to local mining contexts.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Robert Hunt — Popular Romances of the West of England | 1865 | Major 19th-century printed source on Cornish folklore including knocker tales. | verified |
+| William Bottrell — Traditions and Hearthside Stories of West Cornwall | 1870 | Companion 19th-century Cornish folklore collection with knocker material. | verified |
 
 ---
+## Theories & Explanations
 
-## Natural Explanations
+### Paranormal / Cryptozoological
 
-### Geological Sounds
+**Genuine mine spirits** _(Cornish folk tradition, Cornish-American mining communities)_
 
-**Rock Sounds**: Knocking sounds in mines are natural rock settling, stress, and geological activity. Evidence: Geological studies of mine acoustics.
+Within Cornish, Welsh, and Cornish-American mining tradition, knockers are real spirits of the mine — sometimes interpreted as the souls of dead miners, sometimes as a separate class of fairy.
 
-**Pre-Warning System**: Rock stress sounds often precede cave-ins, creating natural warning system that knocker belief helped miners interpret and heed.
+**Spirits of dead Jewish miners** _(19th-century Cornish folk informants)_
 
-### Psychological Function
+An older Cornish folk theory held that knockers were the ghosts of Jewish miners said (legendarily) to have worked Cornish tin mines in the 11th and 12th centuries — a claim with no historical basis.
 
-**Occupational Folklore**: Belief provided psychological framework for dangerous work, interpreting natural sounds as warnings from protective spirits.
+### Scientific
 
-**Safety Culture**: Knocker respect protocols (heeding knocking sounds) may have saved lives by encouraging miners to evacuate when hearing geological warning signs.
+**Acoustic phenomena of working mines** _(Modern rock-mechanics literature)_
 
----
+Mainstream geology and mining engineering attribute the knocker phenomenon to the natural creaking, settling, and microfracturing of timbered or rock-supported mine workings, including pre-collapse acoustic emission — making the 'knock before a rockfall' belief structurally plausible as a folk encoding of real warning sounds.
 
-## Cultural Heritage
+### Skeptical
 
-### Preservation
+**Cultural folklore of working dangers** _(Robert Hunt, Modern Cornish-studies and folklore scholarship)_
 
-**Mining Museums**: Cornwall mining museums preserve knocker traditions and educate about mining heritage.
+Folklorists treat knocker belief as a culturally meaningful encoding of the real dangers and stochastic rewards of underground mining — psychological coping and informal safety culture in supernatural form.
 
-**Cultural Festivals**: Cornish cultural events maintain knocker folklore.
 
-**Heritage Sites**: Former mining sites interpret knocker traditions for visitors.
+## Popular Culture
 
-### Cultural Sensitivity
+**Literature**: Robert Hunt — Popular Romances of the West of England (1865); William Bottrell — Traditions and Hearthside Stories of West Cornwall (1870–80); Stephen King — The Tommyknockers (1987)
 
-> **Important**: Knockers are significant part of Cornish cultural heritage and identity. Represent important mining community traditions and genuine historical beliefs. Treat as important cultural tradition, not mere superstition. Cornish communities maintain connection to this heritage.
+**Film / TV**: Poldark (BBC TV adaptations) — Cornish mining background; Various American Western TV references to Tommyknockers
 
----
+**Games**: Dungeons & Dragons — knockers as a creature entry; Various fantasy RPGs featuring mine-spirit / knocker creatures
 
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const knocker = await wyrd.getPhenomenon('knocker');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/knocker/main/api.json
-```
+**Other**: Geevor Tin Mine Museum (Cornwall) — heritage interpretation; Cornish-American festivals in Mineral Point (Wisconsin), Grass Valley (California), etc.
 
 ---
+## Research
 
-## Sources & References
+### Researchers
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Robert Hunt | Cornish folklorist (19th c.) | Foundational printed collection of Cornish folklore including knockers | 1830s–1880s |
+| William Bottrell | Cornish folklorist (19th c.) | Three volumes of West Cornwall traditions including knocker tales | 1870s–1880s |
+| Ronald M. James | Independent historian (Nevada) | Comparative work on Cornish folklore in the American West and the Tommyknocker tradition | 1990s–present |
 
-### Primary Sources
+### Organizations
 
-- Hunt, R. (1865). *Popular Romances of the West of England*
-- Bottrell, W. (1870s). *Traditions and Hearthside Stories of West Cornwall*
-- Cornish Mining Heritage documentation
+- [Geevor Tin Mine (museum)](https://www.geevor.com) — Heritage interpretation of Cornish mining including knocker traditions
+- [Institute of Cornish Studies, University of Exeter](https://www.exeter.ac.uk/research/centres/ics/) — Academic study of Cornish history, language, and folklore including the diaspora Tommyknocker tradition
 
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+Cornish-studies and folklore scholars continue to investigate the diaspora of Cornish mining culture and its supernatural beliefs in the U.S. West, Australia, and South Africa.
 
 ---
+## Sources
 
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
